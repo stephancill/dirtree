@@ -1,3 +1,5 @@
 build
 dist
 dirtree.egg-info
+.DS_Store
+__pycache__
